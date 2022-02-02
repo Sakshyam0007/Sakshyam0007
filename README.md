@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sakshyam0007
+- 👀 I’m interested in Python and AI development
+- 🌱 I’m currently machine learning
